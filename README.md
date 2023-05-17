@@ -21,3 +21,8 @@ In order to gain insights from the data, we conducted exploratory data analysis.
 -  Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 
 ## Linkedin - https://www.linkedin.com/in/anurag-nath-534966166/
+
+## Project sample -
+![1](https://github.com/Anurag-Nath/Diwali_Sales_Analysis_Python_Project/assets/131389306/eae6afc7-71d5-48c0-94e9-73443ada6b4a)
+![2](https://github.com/Anurag-Nath/Diwali_Sales_Analysis_Python_Project/assets/131389306/80b637ab-9c7e-4a39-9b7c-ef007bfb2f8a)
+![3](https://github.com/Anurag-Nath/Diwali_Sales_Analysis_Python_Project/assets/131389306/33eb9cff-ecdd-4d3c-8f1b-91eebb5cc504)
